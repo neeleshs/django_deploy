@@ -1,0 +1,12 @@
+Edit fabfile.py and set the following variables with your values. 
+Note: Angle brackets are placeholders and should be removed
+
+env.hosts = [<>]
+BASE_DIR='<>'
+APP_NAME='<>'
+USER_NAME='<>'
+DEPLOY_DIR=BASE_DIR+APP_NAME
+GIT_CLONE_URL='<>'
+GIT_PUSH_URL='<>'
+FCGI_PORT='<>'
+
