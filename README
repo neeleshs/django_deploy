@@ -1,4 +1,5 @@
 Edit fabfile.py and set the following variables with your values. 
+Read http://tidbids.posterous.com/django-deployments-made-easy for information on the project structure thats required for this fabfile to work.
 Note: Angle brackets are placeholders and should be removed
 
 env.hosts = [<>]
